@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/aka_slendy" target="blank"><img src="https://img.shields.io/twitter/follow/aka_slendy?logo=twitter&style=for-the-badge" alt="aka_slendy" /></a> </p>
 
-- 🔭 I’m currently working on [my first website](https://github.com/akaslendy/repo1)
+- 🔭 I’m currently working on [my first website](https://github.com/akaslendy/PersonalWebsite)
 
 - 🌱 I’m currently learning **HTML, CSS, SCSS, etc.**
 
